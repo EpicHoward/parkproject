@@ -8,7 +8,7 @@ $(document).ready(function()
                 var zipcode = $("Zip").val();
 
                 var url = "https://api.foursquare.com/v2/venues/search?near=" +
-                zipcode + "= =21b0a78e60bc539c02c647c6f01ebfba"
+                zipcode + "&query= =21b0a78e60bc539c02c647c6f01ebfba"
                 
 
             }
