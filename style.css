@@ -1,8 +1,10 @@
 .button{
-boarder-size: 10px
+border-size: 10px
 }
 
 button.hover{
     background-color:blue
 }
- 
+body{
+    background:url("https://nextcity.org/images/made/Minneapolis_LoringPark_920_568_80.jpg");
+}
