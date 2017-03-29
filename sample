@@ -1,0 +1,2037 @@
+{
+	"meta": {
+		"code": 200,
+		"requestId": "58dc183edb04f53c1b883cb4"
+	},
+	"response": {
+		"venues": [
+			{
+				"id": "4a95e7c2f964a520562520e3",
+				"name": "CTA - Jefferson Park",
+				"contact": {
+					"phone": "8889687282",
+					"formattedPhone": "(888) 968-7282",
+					"twitter": "cta"
+				},
+				"location": {
+					"address": "4917 N Milwaukee Ave",
+					"crossStreet": "at Kennedy Expy",
+					"lat": 41.970238251207036,
+					"lng": -87.76099830233811,
+					"postalCode": "60630",
+					"cc": "US",
+					"city": "Chicago",
+					"state": "IL",
+					"country": "United States",
+					"formattedAddress": [
+						"4917 N Milwaukee Ave (at Kennedy Expy)",
+						"Chicago, IL 60630",
+						"United States"
+					]
+				},
+				"categories": [
+					{
+						"id": "4bf58dd8d48988d129951735",
+						"name": "Train Station",
+						"pluralName": "Train Stations",
+						"shortName": "Train Station",
+						"icon": {
+							"prefix": "https://ss3.4sqi.net/img/categories_v2/travel/trainstation_",
+							"suffix": ".png"
+						},
+						"primary": true
+					}
+				],
+				"verified": false,
+				"stats": {
+					"checkinsCount": 31087,
+					"usersCount": 5693,
+					"tipCount": 41
+				},
+				"url": "http://www.transitchicago.com",
+				"beenHere": {
+					"lastCheckinExpiredAt": 0
+				},
+				"specials": {
+					"count": 0,
+					"items": []
+				},
+				"hereNow": {
+					"count": 0,
+					"summary": "Nobody here",
+					"groups": []
+				},
+				"referralId": "v-1490819134",
+				"venueChains": [],
+				"hasPerk": false
+			},
+			{
+				"id": "42b75880f964a52090251fe3",
+				"name": "Millennium Park",
+				"contact": {
+					"phone": "3127421168",
+					"formattedPhone": "(312) 742-1168",
+					"twitter": "millennium_park",
+					"facebook": "107993661288",
+					"facebookName": "Millennium Park"
+				},
+				"location": {
+					"address": "201 E Randolph St",
+					"crossStreet": "btwn Columbus Dr & Michigan Ave",
+					"lat": 41.8826469005115,
+					"lng": -87.62346571348985,
+					"postalCode": "60601",
+					"cc": "US",
+					"city": "Chicago",
+					"state": "IL",
+					"country": "United States",
+					"formattedAddress": [
+						"201 E Randolph St (btwn Columbus Dr & Michigan Ave)",
+						"Chicago, IL 60601",
+						"United States"
+					]
+				},
+				"categories": [
+					{
+						"id": "4bf58dd8d48988d163941735",
+						"name": "Park",
+						"pluralName": "Parks",
+						"shortName": "Park",
+						"icon": {
+							"prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+							"suffix": ".png"
+						},
+						"primary": true
+					}
+				],
+				"verified": false,
+				"stats": {
+					"checkinsCount": 125330,
+					"usersCount": 84792,
+					"tipCount": 527
+				},
+				"url": "http://www.millenniumpark.org",
+				"beenHere": {
+					"lastCheckinExpiredAt": 0
+				},
+				"specials": {
+					"count": 0,
+					"items": []
+				},
+				"hereNow": {
+					"count": 4,
+					"summary": "4 people are here",
+					"groups": [
+						{
+							"type": "others",
+							"name": "Other people here",
+							"count": 4,
+							"items": []
+						}
+					]
+				},
+				"referralId": "v-1490819134",
+				"venueChains": [],
+				"hasPerk": false
+			},
+			{
+				"id": "4c6ff08efa49a1cd3559a4e3",
+				"name": "Jefferson Park",
+				"contact": {},
+				"location": {
+					"lat": 41.98161765150074,
+					"lng": -87.76623487472534,
+					"cc": "US",
+					"city": "Chicago",
+					"state": "IL",
+					"country": "United States",
+					"formattedAddress": [
+						"Chicago, IL",
+						"United States"
+					]
+				},
+				"categories": [
+					{
+						"id": "4f2a25ac4b909258e854f55f",
+						"name": "Neighborhood",
+						"pluralName": "Neighborhoods",
+						"shortName": "Neighborhood",
+						"icon": {
+							"prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/neighborhood_",
+							"suffix": ".png"
+						},
+						"primary": true
+					}
+				],
+				"verified": false,
+				"stats": {
+					"checkinsCount": 7088,
+					"usersCount": 1220,
+					"tipCount": 6
+				},
+				"venueRatingBlacklisted": true,
+				"beenHere": {
+					"lastCheckinExpiredAt": 0
+				},
+				"specials": {
+					"count": 0,
+					"items": []
+				},
+				"hereNow": {
+					"count": 0,
+					"summary": "Nobody here",
+					"groups": []
+				},
+				"referralId": "v-1490819134",
+				"venueChains": [],
+				"hasPerk": false
+			},
+			{
+				"id": "4bddaeca587b2d7f96a55409",
+				"name": "Rogers Park",
+				"contact": {},
+				"location": {
+					"lat": 42.00668324627499,
+					"lng": -87.67271718091965,
+					"cc": "US",
+					"city": "Chicago",
+					"state": "IL",
+					"country": "United States",
+					"formattedAddress": [
+						"Chicago, IL",
+						"United States"
+					]
+				},
+				"categories": [
+					{
+						"id": "4f2a25ac4b909258e854f55f",
+						"name": "Neighborhood",
+						"pluralName": "Neighborhoods",
+						"shortName": "Neighborhood",
+						"icon": {
+							"prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/neighborhood_",
+							"suffix": ".png"
+						},
+						"primary": true
+					}
+				],
+				"verified": false,
+				"stats": {
+					"checkinsCount": 19358,
+					"usersCount": 1998,
+					"tipCount": 21
+				},
+				"url": "http://www.rogerspark.com",
+				"venueRatingBlacklisted": true,
+				"beenHere": {
+					"lastCheckinExpiredAt": 0
+				},
+				"specials": {
+					"count": 0,
+					"items": []
+				},
+				"hereNow": {
+					"count": 0,
+					"summary": "Nobody here",
+					"groups": []
+				},
+				"referralId": "v-1490819134",
+				"venueChains": [],
+				"hasPerk": false
+			},
+			{
+				"id": "4a95e8c1f964a5205d2520e3",
+				"name": "CTA - Irving Park",
+				"contact": {
+					"phone": "8889687282",
+					"formattedPhone": "(888) 968-7282",
+					"twitter": "cta"
+				},
+				"location": {
+					"address": "4131 W Irving Park Rd",
+					"crossStreet": "at Kennedy Expy",
+					"lat": 41.95314564916451,
+					"lng": -87.72942789704136,
+					"postalCode": "60641",
+					"cc": "US",
+					"city": "Chicago",
+					"state": "IL",
+					"country": "United States",
+					"formattedAddress": [
+						"4131 W Irving Park Rd (at Kennedy Expy)",
+						"Chicago, IL 60641",
+						"United States"
+					]
+				},
+				"categories": [
+					{
+						"id": "4bf58dd8d48988d129951735",
+						"name": "Train Station",
+						"pluralName": "Train Stations",
+						"shortName": "Train Station",
+						"icon": {
+							"prefix": "https://ss3.4sqi.net/img/categories_v2/travel/trainstation_",
+							"suffix": ".png"
+						},
+						"primary": true
+					}
+				],
+				"verified": false,
+				"stats": {
+					"checkinsCount": 20382,
+					"usersCount": 4290,
+					"tipCount": 20
+				},
+				"url": "http://transitchicago.com",
+				"beenHere": {
+					"lastCheckinExpiredAt": 0
+				},
+				"specials": {
+					"count": 0,
+					"items": []
+				},
+				"hereNow": {
+					"count": 0,
+					"summary": "Nobody here",
+					"groups": []
+				},
+				"referralId": "v-1490819134",
+				"venueChains": [],
+				"hasPerk": false
+			},
+			{
+				"id": "4d8a1e7976e1236ac7311343",
+				"name": "Jefferson Park CTA Bus Terminal",
+				"contact": {
+					"phone": "8889687282",
+					"formattedPhone": "(888) 968-7282",
+					"twitter": "cta"
+				},
+				"location": {
+					"address": "4917 N Milwaukee Ave",
+					"crossStreet": "at Kennedy Expy",
+					"lat": 41.970098613911034,
+					"lng": -87.76186813587499,
+					"labeledLatLngs": [
+						{
+							"label": "display",
+							"lat": 41.970098613911034,
+							"lng": -87.76186813587499
+						}
+					],
+					"postalCode": "60630",
+					"cc": "US",
+					"city": "Chicago",
+					"state": "IL",
+					"country": "United States",
+					"formattedAddress": [
+						"4917 N Milwaukee Ave (at Kennedy Expy)",
+						"Chicago, IL 60630",
+						"United States"
+					]
+				},
+				"categories": [
+					{
+						"id": "4bf58dd8d48988d1fe931735",
+						"name": "Bus Station",
+						"pluralName": "Bus Stations",
+						"shortName": "Bus Station",
+						"icon": {
+							"prefix": "https://ss3.4sqi.net/img/categories_v2/travel/busstation_",
+							"suffix": ".png"
+						},
+						"primary": true
+					}
+				],
+				"verified": false,
+				"stats": {
+					"checkinsCount": 2876,
+					"usersCount": 377,
+					"tipCount": 3
+				},
+				"url": "http://www.transitchicago.com",
+				"beenHere": {
+					"lastCheckinExpiredAt": 0
+				},
+				"specials": {
+					"count": 0,
+					"items": []
+				},
+				"hereNow": {
+					"count": 0,
+					"summary": "Nobody here",
+					"groups": []
+				},
+				"referralId": "v-1490819134",
+				"venueChains": [],
+				"hasPerk": false
+			},
+			{
+				"id": "42e42b80f964a52071261fe3",
+				"name": "Lincoln Park Athletic Club",
+				"contact": {
+					"phone": "7733600951",
+					"formattedPhone": "(773) 360-0951",
+					"twitter": "ChicagoAthletic"
+				},
+				"location": {
+					"address": "1019 W Diversey Pkwy",
+					"lat": 41.93250248605383,
+					"lng": -87.65457986295029,
+					"labeledLatLngs": [
+						{
+							"label": "display",
+							"lat": 41.93250248605383,
+							"lng": -87.65457986295029
+						}
+					],
+					"postalCode": "60614",
+					"cc": "US",
+					"city": "Chicago",
+					"state": "IL",
+					"country": "United States",
+					"formattedAddress": [
+						"1019 W Diversey Pkwy",
+						"Chicago, IL 60614",
+						"United States"
+					]
+				},
+				"categories": [
+					{
+						"id": "4bf58dd8d48988d176941735",
+						"name": "Gym",
+						"pluralName": "Gyms",
+						"shortName": "Gym",
+						"icon": {
+							"prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+							"suffix": ".png"
+						},
+						"primary": true
+					}
+				],
+				"verified": true,
+				"stats": {
+					"checkinsCount": 28449,
+					"usersCount": 1356,
+					"tipCount": 33
+				},
+				"url": "http://www.ChicagoAthleticClubs.com",
+				"hasMenu": true,
+				"menu": {
+					"type": "Prices",
+					"label": "Prices",
+					"anchor": "View Prices",
+					"url": "https://foursquare.com/v/lincoln-park-athletic-club/42e42b80f964a52071261fe3/menu",
+					"mobileUrl": "https://foursquare.com/v/42e42b80f964a52071261fe3/device_menu"
+				},
+				"allowMenuUrlEdit": true,
+				"beenHere": {
+					"lastCheckinExpiredAt": 0
+				},
+				"specials": {
+					"count": 0,
+					"items": []
+				},
+				"venuePage": {
+					"id": "37183556"
+				},
+				"hereNow": {
+					"count": 0,
+					"summary": "Nobody here",
+					"groups": []
+				},
+				"referralId": "v-1490819134",
+				"venueChains": [],
+				"hasPerk": false
+			},
+			{
+				"id": "4f6b838c7bebf48a25686d14",
+				"name": "Humboldt Park",
+				"contact": {
+					"phone": "3127427549",
+					"formattedPhone": "(312) 742-7549"
+				},
+				"location": {
+					"address": "1400 N Humboldt Dr",
+					"crossStreet": "off of Luis Munoz Marin Drive",
+					"lat": 41.90622991068906,
+					"lng": -87.70096829940961,
+					"postalCode": "60622",
+					"cc": "US",
+					"city": "Chicago",
+					"state": "IL",
+					"country": "United States",
+					"formattedAddress": [
+						"1400 N Humboldt Dr (off of Luis Munoz Marin Drive)",
+						"Chicago, IL 60622",
+						"United States"
+					]
+				},
+				"categories": [
+					{
+						"id": "4bf58dd8d48988d163941735",
+						"name": "Park",
+						"pluralName": "Parks",
+						"shortName": "Park",
+						"icon": {
+							"prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+							"suffix": ".png"
+						},
+						"primary": true
+					}
+				],
+				"verified": true,
+				"stats": {
+					"checkinsCount": 16604,
+					"usersCount": 4004,
+					"tipCount": 34
+				},
+				"url": "http://chicagoparkdistrict.com",
+				"beenHere": {
+					"lastCheckinExpiredAt": 0
+				},
+				"specials": {
+					"count": 0,
+					"items": []
+				},
+				"storeId": "",
+				"hereNow": {
+					"count": 0,
+					"summary": "Nobody here",
+					"groups": []
+				},
+				"referralId": "v-1490819134",
+				"venueChains": [
+					{
+						"id": "556cff64aceaff43eb070c64"
+					}
+				],
+				"hasPerk": false
+			},
+			{
+				"id": "4ba5e46df964a520dc2739e3",
+				"name": "Chicago Police 16th District Jefferson Park",
+				"contact": {
+					"phone": "3127424480",
+					"formattedPhone": "(312) 742-4480"
+				},
+				"location": {
+					"address": "5151 N Milwaukee Ave",
+					"crossStreet": "Milwaukee & Foster",
+					"lat": 41.974579333234125,
+					"lng": -87.76639484481453,
+					"labeledLatLngs": [
+						{
+							"label": "display",
+							"lat": 41.974579333234125,
+							"lng": -87.76639484481453
+						}
+					],
+					"postalCode": "60630",
+					"cc": "US",
+					"city": "Chicago",
+					"state": "IL",
+					"country": "United States",
+					"formattedAddress": [
+						"5151 N Milwaukee Ave (Milwaukee & Foster)",
+						"Chicago, IL 60630",
+						"United States"
+					]
+				},
+				"categories": [
+					{
+						"id": "4bf58dd8d48988d12e941735",
+						"name": "Police Station",
+						"pluralName": "Police Stations",
+						"shortName": "Police Station",
+						"icon": {
+							"prefix": "https://ss3.4sqi.net/img/categories_v2/building/government_policestation_",
+							"suffix": ".png"
+						},
+						"primary": true
+					}
+				],
+				"verified": false,
+				"stats": {
+					"checkinsCount": 1117,
+					"usersCount": 326,
+					"tipCount": 10
+				},
+				"venueRatingBlacklisted": true,
+				"beenHere": {
+					"lastCheckinExpiredAt": 0
+				},
+				"specials": {
+					"count": 0,
+					"items": []
+				},
+				"hereNow": {
+					"count": 0,
+					"summary": "Nobody here",
+					"groups": []
+				},
+				"referralId": "v-1490819134",
+				"venueChains": [],
+				"hasPerk": false
+			},
+			{
+				"id": "45840a3af964a520903f1fe3",
+				"name": "Lincoln Park Zoo",
+				"contact": {
+					"phone": "3127422000",
+					"formattedPhone": "(312) 742-2000",
+					"twitter": "lincolnparkzoo",
+					"facebook": "44441577741",
+					"facebookUsername": "lincolnparkzoo",
+					"facebookName": "Lincoln Park Zoo"
+				},
+				"location": {
+					"address": "2001 N Clark St",
+					"crossStreet": "btwn Fullerton Pkwy & LaSalle Dr",
+					"lat": 41.92150067315572,
+					"lng": -87.63372218428451,
+					"postalCode": "60614",
+					"cc": "US",
+					"city": "Chicago",
+					"state": "IL",
+					"country": "United States",
+					"formattedAddress": [
+						"2001 N Clark St (btwn Fullerton Pkwy & LaSalle Dr)",
+						"Chicago, IL 60614",
+						"United States"
+					]
+				},
+				"categories": [
+					{
+						"id": "4bf58dd8d48988d17b941735",
+						"name": "Zoo",
+						"pluralName": "Zoos",
+						"shortName": "Zoo",
+						"icon": {
+							"prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/zoo_",
+							"suffix": ".png"
+						},
+						"primary": true
+					}
+				],
+				"verified": true,
+				"stats": {
+					"checkinsCount": 55402,
+					"usersCount": 35600,
+					"tipCount": 261
+				},
+				"url": "http://www.lpzoo.org",
+				"hasMenu": true,
+				"menu": {
+					"type": "Prices",
+					"label": "Prices",
+					"anchor": "View Prices",
+					"url": "https://foursquare.com/v/lincoln-park-zoo/45840a3af964a520903f1fe3/menu",
+					"mobileUrl": "https://foursquare.com/v/45840a3af964a520903f1fe3/device_menu"
+				},
+				"allowMenuUrlEdit": true,
+				"beenHere": {
+					"lastCheckinExpiredAt": 0
+				},
+				"specials": {
+					"count": 0,
+					"items": []
+				},
+				"venuePage": {
+					"id": "137847862"
+				},
+				"hereNow": {
+					"count": 1,
+					"summary": "One other person is here",
+					"groups": [
+						{
+							"type": "others",
+							"name": "Other people here",
+							"count": 1,
+							"items": []
+						}
+					]
+				},
+				"referralId": "v-1490819134",
+				"venueChains": [],
+				"hasPerk": false
+			},
+			{
+				"id": "4b2ad6c9f964a52098b024e3",
+				"name": "Park Place Tower",
+				"contact": {
+					"phone": "7732891600",
+					"formattedPhone": "(773) 289-1600"
+				},
+				"location": {
+					"address": "655 W Irving Park Rd",
+					"crossStreet": "at N Pine Grove Ave",
+					"lat": 41.95422430054142,
+					"lng": -87.64763832092285,
+					"labeledLatLngs": [
+						{
+							"label": "display",
+							"lat": 41.95422430054142,
+							"lng": -87.64763832092285
+						}
+					],
+					"postalCode": "60613",
+					"cc": "US",
+					"city": "Chicago",
+					"state": "IL",
+					"country": "United States",
+					"formattedAddress": [
+						"655 W Irving Park Rd (at N Pine Grove Ave)",
+						"Chicago, IL 60613",
+						"United States"
+					]
+				},
+				"categories": [
+					{
+						"id": "4d954b06a243a5684965b473",
+						"name": "Residential Building (Apartment / Condo)",
+						"pluralName": "Residential Buildings (Apartments / Condos)",
+						"shortName": "Residential",
+						"icon": {
+							"prefix": "https://ss3.4sqi.net/img/categories_v2/building/apartment_",
+							"suffix": ".png"
+						},
+						"primary": true
+					}
+				],
+				"verified": false,
+				"stats": {
+					"checkinsCount": 15217,
+					"usersCount": 1066,
+					"tipCount": 9
+				},
+				"venueRatingBlacklisted": true,
+				"beenHere": {
+					"lastCheckinExpiredAt": 0
+				},
+				"specials": {
+					"count": 0,
+					"items": []
+				},
+				"hereNow": {
+					"count": 0,
+					"summary": "Nobody here",
+					"groups": []
+				},
+				"referralId": "v-1490819134",
+				"venueChains": [],
+				"hasPerk": false
+			},
+			{
+				"id": "4bdf81ffffdec928a761eca1",
+				"name": "Jefferson Memorial Park",
+				"contact": {
+					"phone": "7736853316",
+					"formattedPhone": "(773) 685-3316"
+				},
+				"location": {
+					"address": "4822 N Long Ave",
+					"crossStreet": "at Higgins Ave",
+					"lat": 41.96831332497476,
+					"lng": -87.763831615448,
+					"labeledLatLngs": [
+						{
+							"label": "display",
+							"lat": 41.96831332497476,
+							"lng": -87.763831615448
+						}
+					],
+					"postalCode": "60630",
+					"cc": "US",
+					"city": "Chicago",
+					"state": "IL",
+					"country": "United States",
+					"formattedAddress": [
+						"4822 N Long Ave (at Higgins Ave)",
+						"Chicago, IL 60630",
+						"United States"
+					]
+				},
+				"categories": [
+					{
+						"id": "4bf58dd8d48988d163941735",
+						"name": "Park",
+						"pluralName": "Parks",
+						"shortName": "Park",
+						"icon": {
+							"prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+							"suffix": ".png"
+						},
+						"primary": true
+					}
+				],
+				"verified": true,
+				"stats": {
+					"checkinsCount": 3745,
+					"usersCount": 541,
+					"tipCount": 5
+				},
+				"url": "http://chicagoparkdistrict.com",
+				"beenHere": {
+					"lastCheckinExpiredAt": 0
+				},
+				"specials": {
+					"count": 0,
+					"items": []
+				},
+				"storeId": "",
+				"hereNow": {
+					"count": 0,
+					"summary": "Nobody here",
+					"groups": []
+				},
+				"referralId": "v-1490819134",
+				"venueChains": [
+					{
+						"id": "556cff64aceaff43eb070c64"
+					}
+				],
+				"hasPerk": false
+			},
+			{
+				"id": "4bba0da0cf2fc9b66010a102",
+				"name": "Wilson Park",
+				"contact": {
+					"phone": "7736856454",
+					"formattedPhone": "(773) 685-6454"
+				},
+				"location": {
+					"address": "4630 N Milwaukee Ave",
+					"crossStreet": "Laramie Ave",
+					"lat": 41.964691918868496,
+					"lng": -87.75922494349422,
+					"labeledLatLngs": [
+						{
+							"label": "display",
+							"lat": 41.964691918868496,
+							"lng": -87.75922494349422
+						}
+					],
+					"postalCode": "60630",
+					"cc": "US",
+					"city": "Chicago",
+					"state": "IL",
+					"country": "United States",
+					"formattedAddress": [
+						"4630 N Milwaukee Ave (Laramie Ave)",
+						"Chicago, IL 60630",
+						"United States"
+					]
+				},
+				"categories": [
+					{
+						"id": "4bf58dd8d48988d163941735",
+						"name": "Park",
+						"pluralName": "Parks",
+						"shortName": "Park",
+						"icon": {
+							"prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+							"suffix": ".png"
+						},
+						"primary": true
+					}
+				],
+				"verified": true,
+				"stats": {
+					"checkinsCount": 4088,
+					"usersCount": 301,
+					"tipCount": 4
+				},
+				"url": "http://chicagoparkdistrict.com",
+				"beenHere": {
+					"lastCheckinExpiredAt": 0
+				},
+				"specials": {
+					"count": 0,
+					"items": []
+				},
+				"storeId": "",
+				"hereNow": {
+					"count": 0,
+					"summary": "Nobody here",
+					"groups": []
+				},
+				"referralId": "v-1490819134",
+				"venueChains": [
+					{
+						"id": "556cff64aceaff43eb070c64"
+					}
+				],
+				"hasPerk": false
+			},
+			{
+				"id": "4c6dc20ff338236aaeaa081b",
+				"name": "Apple Lincoln Park",
+				"contact": {
+					"phone": "3127774200",
+					"formattedPhone": "(312) 777-4200",
+					"facebook": "158432050833461",
+					"facebookUsername": "Apple.Store.US.LincolnPark",
+					"facebookName": "Apple Lincoln Park"
+				},
+				"location": {
+					"address": "801 W. North Avenue",
+					"crossStreet": "at N Halsted St",
+					"lat": 41.910609,
+					"lng": -87.64849,
+					"labeledLatLngs": [
+						{
+							"label": "display",
+							"lat": 41.910609,
+							"lng": -87.64849
+						}
+					],
+					"postalCode": "60642",
+					"cc": "US",
+					"city": "Chicago",
+					"state": "IL",
+					"country": "United States",
+					"formattedAddress": [
+						"801 W. North Avenue (at N Halsted St)",
+						"Chicago, IL 60642",
+						"United States"
+					]
+				},
+				"categories": [
+					{
+						"id": "4bf58dd8d48988d122951735",
+						"name": "Electronics Store",
+						"pluralName": "Electronics Stores",
+						"shortName": "Electronics",
+						"icon": {
+							"prefix": "https://ss3.4sqi.net/img/categories_v2/shops/technology_",
+							"suffix": ".png"
+						},
+						"primary": true
+					}
+				],
+				"verified": true,
+				"stats": {
+					"checkinsCount": 29550,
+					"usersCount": 11748,
+					"tipCount": 76
+				},
+				"url": "http://www.apple.com/retail/lincolnpark",
+				"allowMenuUrlEdit": true,
+				"beenHere": {
+					"lastCheckinExpiredAt": 0
+				},
+				"specials": {
+					"count": 0,
+					"items": []
+				},
+				"storeId": "R284",
+				"hereNow": {
+					"count": 0,
+					"summary": "Nobody here",
+					"groups": []
+				},
+				"referralId": "v-1490819134",
+				"venueChains": [
+					{
+						"id": "556ce0d4aceaff43eb0463e7"
+					}
+				],
+				"hasPerk": false
+			},
+			{
+				"id": "4f6b838f7bebf48a25686e39",
+				"name": "Roberts Square Park",
+				"contact": {
+					"phone": "7736853315",
+					"formattedPhone": "(773) 685-3315"
+				},
+				"location": {
+					"address": "5230 W Argyle St",
+					"lat": 41.97191087204803,
+					"lng": -87.75883197784424,
+					"labeledLatLngs": [
+						{
+							"label": "display",
+							"lat": 41.97191087204803,
+							"lng": -87.75883197784424
+						}
+					],
+					"postalCode": "60630",
+					"cc": "US",
+					"city": "Chicago",
+					"state": "IL",
+					"country": "United States",
+					"formattedAddress": [
+						"5230 W Argyle St",
+						"Chicago, IL 60630",
+						"United States"
+					]
+				},
+				"categories": [
+					{
+						"id": "4bf58dd8d48988d163941735",
+						"name": "Park",
+						"pluralName": "Parks",
+						"shortName": "Park",
+						"icon": {
+							"prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+							"suffix": ".png"
+						},
+						"primary": true
+					}
+				],
+				"verified": true,
+				"stats": {
+					"checkinsCount": 460,
+					"usersCount": 72,
+					"tipCount": 2
+				},
+				"url": "http://chicagoparkdistrict.com",
+				"beenHere": {
+					"lastCheckinExpiredAt": 0
+				},
+				"specials": {
+					"count": 0,
+					"items": []
+				},
+				"storeId": "",
+				"hereNow": {
+					"count": 0,
+					"summary": "Nobody here",
+					"groups": []
+				},
+				"referralId": "v-1490819134",
+				"venueChains": [
+					{
+						"id": "556cff64aceaff43eb070c64"
+					}
+				],
+				"hasPerk": false
+			},
+			{
+				"id": "4a80b9edf964a52009f61fe3",
+				"name": "CTA - Irving Park",
+				"contact": {
+					"phone": "8889687282",
+					"formattedPhone": "(888) 968-7282",
+					"twitter": "cta"
+				},
+				"location": {
+					"address": "1816 W Irving Park Rd",
+					"crossStreet": "btwn N Ravenswood Ave & N Wolcott Ave",
+					"lat": 41.95420022340404,
+					"lng": -87.67493207823748,
+					"labeledLatLngs": [
+						{
+							"label": "display",
+							"lat": 41.95420022340404,
+							"lng": -87.67493207823748
+						}
+					],
+					"postalCode": "60613",
+					"cc": "US",
+					"city": "Chicago",
+					"state": "IL",
+					"country": "United States",
+					"formattedAddress": [
+						"1816 W Irving Park Rd (btwn N Ravenswood Ave & N Wolcott Ave)",
+						"Chicago, IL 60613",
+						"United States"
+					]
+				},
+				"categories": [
+					{
+						"id": "4bf58dd8d48988d129951735",
+						"name": "Train Station",
+						"pluralName": "Train Stations",
+						"shortName": "Train Station",
+						"icon": {
+							"prefix": "https://ss3.4sqi.net/img/categories_v2/travel/trainstation_",
+							"suffix": ".png"
+						},
+						"primary": true
+					}
+				],
+				"verified": false,
+				"stats": {
+					"checkinsCount": 11903,
+					"usersCount": 2409,
+					"tipCount": 12
+				},
+				"url": "http://transitchicago.com",
+				"beenHere": {
+					"lastCheckinExpiredAt": 0
+				},
+				"specials": {
+					"count": 0,
+					"items": []
+				},
+				"hereNow": {
+					"count": 0,
+					"summary": "Nobody here",
+					"groups": []
+				},
+				"referralId": "v-1490819134",
+				"venueChains": [],
+				"hasPerk": false
+			},
+			{
+				"id": "4bad7170f964a52060513be3",
+				"name": "Portage Park",
+				"contact": {
+					"phone": "7736857235",
+					"formattedPhone": "(773) 685-7235"
+				},
+				"location": {
+					"address": "4100 N Long Ave",
+					"crossStreet": "btwn Berteau Ave & Irving Park Rd",
+					"lat": 41.95513333534791,
+					"lng": -87.76277639724411,
+					"labeledLatLngs": [
+						{
+							"label": "display",
+							"lat": 41.95513333534791,
+							"lng": -87.76277639724411
+						}
+					],
+					"postalCode": "60641",
+					"cc": "US",
+					"city": "Chicago",
+					"state": "IL",
+					"country": "United States",
+					"formattedAddress": [
+						"4100 N Long Ave (btwn Berteau Ave & Irving Park Rd)",
+						"Chicago, IL 60641",
+						"United States"
+					]
+				},
+				"categories": [
+					{
+						"id": "4bf58dd8d48988d163941735",
+						"name": "Park",
+						"pluralName": "Parks",
+						"shortName": "Park",
+						"icon": {
+							"prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+							"suffix": ".png"
+						},
+						"primary": true
+					}
+				],
+				"verified": true,
+				"stats": {
+					"checkinsCount": 6553,
+					"usersCount": 1348,
+					"tipCount": 17
+				},
+				"url": "http://chicagoparkdistrict.com",
+				"beenHere": {
+					"lastCheckinExpiredAt": 0
+				},
+				"specials": {
+					"count": 0,
+					"items": []
+				},
+				"storeId": "",
+				"hereNow": {
+					"count": 0,
+					"summary": "Nobody here",
+					"groups": []
+				},
+				"referralId": "v-1490819134",
+				"venueChains": [
+					{
+						"id": "556cff64aceaff43eb070c64"
+					}
+				],
+				"hasPerk": false
+			},
+			{
+				"id": "4ac7a728f964a520d2b820e3",
+				"name": "Winnemac Park",
+				"contact": {
+					"phone": "3127425101",
+					"formattedPhone": "(312) 742-5101"
+				},
+				"location": {
+					"address": "5001 N Leavitt St",
+					"crossStreet": "at W Argyle St",
+					"lat": 41.9731486440829,
+					"lng": -87.68137392807421,
+					"labeledLatLngs": [
+						{
+							"label": "display",
+							"lat": 41.9731486440829,
+							"lng": -87.68137392807421
+						}
+					],
+					"postalCode": "60625",
+					"cc": "US",
+					"city": "Chicago",
+					"state": "IL",
+					"country": "United States",
+					"formattedAddress": [
+						"5001 N Leavitt St (at W Argyle St)",
+						"Chicago, IL 60625",
+						"United States"
+					]
+				},
+				"categories": [
+					{
+						"id": "4bf58dd8d48988d163941735",
+						"name": "Park",
+						"pluralName": "Parks",
+						"shortName": "Park",
+						"icon": {
+							"prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+							"suffix": ".png"
+						},
+						"primary": true
+					}
+				],
+				"verified": true,
+				"stats": {
+					"checkinsCount": 6887,
+					"usersCount": 1347,
+					"tipCount": 32
+				},
+				"url": "http://chicagoparkdistrict.com",
+				"beenHere": {
+					"lastCheckinExpiredAt": 0
+				},
+				"specials": {
+					"count": 0,
+					"items": []
+				},
+				"storeId": "",
+				"hereNow": {
+					"count": 0,
+					"summary": "Nobody here",
+					"groups": []
+				},
+				"referralId": "v-1490819134",
+				"venueChains": [
+					{
+						"id": "556cff64aceaff43eb070c64"
+					}
+				],
+				"hasPerk": false
+			},
+			{
+				"id": "4a9eb275f964a520e83a20e3",
+				"name": "Horner Park",
+				"contact": {
+					"phone": "7734783499",
+					"formattedPhone": "(773) 478-3499"
+				},
+				"location": {
+					"address": "2741 W Montrose Ave",
+					"crossStreet": "at N California Ave",
+					"lat": 41.960335777507694,
+					"lng": -87.69778490066528,
+					"postalCode": "60618",
+					"cc": "US",
+					"city": "Chicago",
+					"state": "IL",
+					"country": "United States",
+					"formattedAddress": [
+						"2741 W Montrose Ave (at N California Ave)",
+						"Chicago, IL 60618",
+						"United States"
+					]
+				},
+				"categories": [
+					{
+						"id": "4bf58dd8d48988d163941735",
+						"name": "Park",
+						"pluralName": "Parks",
+						"shortName": "Park",
+						"icon": {
+							"prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+							"suffix": ".png"
+						},
+						"primary": true
+					}
+				],
+				"verified": true,
+				"stats": {
+					"checkinsCount": 5911,
+					"usersCount": 1530,
+					"tipCount": 27
+				},
+				"url": "http://chicagoparkdistrict.com",
+				"beenHere": {
+					"lastCheckinExpiredAt": 0
+				},
+				"specials": {
+					"count": 0,
+					"items": []
+				},
+				"storeId": "",
+				"hereNow": {
+					"count": 0,
+					"summary": "Nobody here",
+					"groups": []
+				},
+				"referralId": "v-1490819134",
+				"venueChains": [
+					{
+						"id": "556cff64aceaff43eb070c64"
+					}
+				],
+				"hasPerk": false
+			},
+			{
+				"id": "4b4c2ff9f964a5206baf26e3",
+				"name": "Gompers Park",
+				"contact": {
+					"phone": "7736853270",
+					"formattedPhone": "(773) 685-3270"
+				},
+				"location": {
+					"address": "4222 W Foster Ave",
+					"crossStreet": "Foster & Pulaski",
+					"lat": 41.97547153806073,
+					"lng": -87.73407806497136,
+					"labeledLatLngs": [
+						{
+							"label": "display",
+							"lat": 41.97547153806073,
+							"lng": -87.73407806497136
+						}
+					],
+					"postalCode": "60630",
+					"cc": "US",
+					"city": "Chicago",
+					"state": "IL",
+					"country": "United States",
+					"formattedAddress": [
+						"4222 W Foster Ave (Foster & Pulaski)",
+						"Chicago, IL 60630",
+						"United States"
+					]
+				},
+				"categories": [
+					{
+						"id": "4bf58dd8d48988d163941735",
+						"name": "Park",
+						"pluralName": "Parks",
+						"shortName": "Park",
+						"icon": {
+							"prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+							"suffix": ".png"
+						},
+						"primary": true
+					}
+				],
+				"verified": true,
+				"stats": {
+					"checkinsCount": 1101,
+					"usersCount": 437,
+					"tipCount": 3
+				},
+				"url": "http://chicagoparkdistrict.com",
+				"beenHere": {
+					"lastCheckinExpiredAt": 0
+				},
+				"specials": {
+					"count": 0,
+					"items": []
+				},
+				"storeId": "",
+				"hereNow": {
+					"count": 0,
+					"summary": "Nobody here",
+					"groups": []
+				},
+				"referralId": "v-1490819134",
+				"venueChains": [
+					{
+						"id": "556cff64aceaff43eb070c64"
+					}
+				],
+				"hasPerk": false
+			},
+			{
+				"id": "4c47533649fa9521cb1f5e62",
+				"name": "Grant Park",
+				"contact": {
+					"phone": "3127423918",
+					"formattedPhone": "(312) 742-3918"
+				},
+				"location": {
+					"address": "337 E Randolph Dr",
+					"crossStreet": "at Michigan Ave",
+					"lat": 41.87615231480258,
+					"lng": -87.62400558512492,
+					"postalCode": "60601",
+					"cc": "US",
+					"city": "Chicago",
+					"state": "IL",
+					"country": "United States",
+					"formattedAddress": [
+						"337 E Randolph Dr (at Michigan Ave)",
+						"Chicago, IL 60601",
+						"United States"
+					]
+				},
+				"categories": [
+					{
+						"id": "4bf58dd8d48988d163941735",
+						"name": "Park",
+						"pluralName": "Parks",
+						"shortName": "Park",
+						"icon": {
+							"prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+							"suffix": ".png"
+						},
+						"primary": true
+					}
+				],
+				"verified": true,
+				"stats": {
+					"checkinsCount": 32084,
+					"usersCount": 19693,
+					"tipCount": 113
+				},
+				"url": "http://chicagoparkdistrict.com",
+				"beenHere": {
+					"lastCheckinExpiredAt": 0
+				},
+				"specials": {
+					"count": 0,
+					"items": []
+				},
+				"storeId": "",
+				"hereNow": {
+					"count": 0,
+					"summary": "Nobody here",
+					"groups": []
+				},
+				"referralId": "v-1490819134",
+				"venueChains": [
+					{
+						"id": "556cff64aceaff43eb070c64"
+					}
+				],
+				"hasPerk": false
+			},
+			{
+				"id": "4c087167bbc676b04bac46d5",
+				"name": "Albany Park",
+				"contact": {},
+				"location": {
+					"lat": 41.96573983636306,
+					"lng": -87.71305955405711,
+					"cc": "US",
+					"city": "Chicago",
+					"state": "IL",
+					"country": "United States",
+					"formattedAddress": [
+						"Chicago, IL",
+						"United States"
+					]
+				},
+				"categories": [
+					{
+						"id": "4f2a25ac4b909258e854f55f",
+						"name": "Neighborhood",
+						"pluralName": "Neighborhoods",
+						"shortName": "Neighborhood",
+						"icon": {
+							"prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/neighborhood_",
+							"suffix": ".png"
+						},
+						"primary": true
+					}
+				],
+				"verified": false,
+				"stats": {
+					"checkinsCount": 9597,
+					"usersCount": 1050,
+					"tipCount": 5
+				},
+				"venueRatingBlacklisted": true,
+				"beenHere": {
+					"lastCheckinExpiredAt": 0
+				},
+				"specials": {
+					"count": 0,
+					"items": []
+				},
+				"hereNow": {
+					"count": 0,
+					"summary": "Nobody here",
+					"groups": []
+				},
+				"referralId": "v-1490819134",
+				"venueChains": [],
+				"hasPerk": false
+			},
+			{
+				"id": "4c0955f0a1b32d7f478097f0",
+				"name": "North Riverside Park Mall",
+				"contact": {
+					"phone": "7084421111",
+					"formattedPhone": "(708) 442-1111",
+					"twitter": "NRPMall"
+				},
+				"location": {
+					"address": "7501 W Cermak Rd",
+					"crossStreet": "at Veterans Dr",
+					"lat": 41.8473783998698,
+					"lng": -87.80997633934021,
+					"labeledLatLngs": [
+						{
+							"label": "display",
+							"lat": 41.8473783998698,
+							"lng": -87.80997633934021
+						}
+					],
+					"postalCode": "60546",
+					"cc": "US",
+					"city": "North Riverside",
+					"state": "IL",
+					"country": "United States",
+					"formattedAddress": [
+						"7501 W Cermak Rd (at Veterans Dr)",
+						"North Riverside, IL 60546",
+						"United States"
+					]
+				},
+				"categories": [
+					{
+						"id": "4bf58dd8d48988d1fd941735",
+						"name": "Shopping Mall",
+						"pluralName": "Shopping Malls",
+						"shortName": "Mall",
+						"icon": {
+							"prefix": "https://ss3.4sqi.net/img/categories_v2/shops/mall_",
+							"suffix": ".png"
+						},
+						"primary": true
+					}
+				],
+				"verified": false,
+				"stats": {
+					"checkinsCount": 12045,
+					"usersCount": 3840,
+					"tipCount": 42
+				},
+				"url": "http://www.northriversideparkmall.com",
+				"beenHere": {
+					"lastCheckinExpiredAt": 0
+				},
+				"specials": {
+					"count": 0,
+					"items": []
+				},
+				"events": {
+					"count": 5,
+					"summary": "5 movies"
+				},
+				"hereNow": {
+					"count": 1,
+					"summary": "One other person is here",
+					"groups": [
+						{
+							"type": "others",
+							"name": "Other people here",
+							"count": 1,
+							"items": []
+						}
+					]
+				},
+				"referralId": "v-1490819134",
+				"venueChains": [],
+				"hasPerk": false
+			},
+			{
+				"id": "4ea87ddec2eea8b0cef88258",
+				"name": "Quinn Park",
+				"contact": {
+					"twitter": "chicagoparks"
+				},
+				"location": {
+					"address": "6239 N McClellan",
+					"lat": 41.99565277636929,
+					"lng": -87.77078926563263,
+					"labeledLatLngs": [
+						{
+							"label": "display",
+							"lat": 41.99565277636929,
+							"lng": -87.77078926563263
+						}
+					],
+					"postalCode": "60646",
+					"cc": "US",
+					"city": "Chicago",
+					"state": "IL",
+					"country": "United States",
+					"formattedAddress": [
+						"6239 N McClellan",
+						"Chicago, IL 60646",
+						"United States"
+					]
+				},
+				"categories": [
+					{
+						"id": "4bf58dd8d48988d163941735",
+						"name": "Park",
+						"pluralName": "Parks",
+						"shortName": "Park",
+						"icon": {
+							"prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+							"suffix": ".png"
+						},
+						"primary": true
+					}
+				],
+				"verified": false,
+				"stats": {
+					"checkinsCount": 0,
+					"usersCount": 0,
+					"tipCount": 0
+				},
+				"beenHere": {
+					"lastCheckinExpiredAt": 0
+				},
+				"specials": {
+					"count": 0,
+					"items": []
+				},
+				"hereNow": {
+					"count": 0,
+					"summary": "Nobody here",
+					"groups": []
+				},
+				"referralId": "v-1490819134",
+				"venueChains": [],
+				"hasPerk": false
+			},
+			{
+				"id": "4b9d7b53f964a5208daf36e3",
+				"name": "Austin-Foster Playlot Park",
+				"contact": {
+					"phone": "7736853257",
+					"formattedPhone": "(773) 685-3257"
+				},
+				"location": {
+					"address": "6020 W Foster Ave",
+					"crossStreet": "at N Austin Ave",
+					"lat": 41.976033308342885,
+					"lng": -87.7787328711945,
+					"labeledLatLngs": [
+						{
+							"label": "display",
+							"lat": 41.976033308342885,
+							"lng": -87.7787328711945
+						}
+					],
+					"postalCode": "60630",
+					"cc": "US",
+					"city": "Chicago",
+					"state": "IL",
+					"country": "United States",
+					"formattedAddress": [
+						"6020 W Foster Ave (at N Austin Ave)",
+						"Chicago, IL 60630",
+						"United States"
+					]
+				},
+				"categories": [
+					{
+						"id": "4bf58dd8d48988d163941735",
+						"name": "Park",
+						"pluralName": "Parks",
+						"shortName": "Park",
+						"icon": {
+							"prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+							"suffix": ".png"
+						},
+						"primary": true
+					}
+				],
+				"verified": true,
+				"stats": {
+					"checkinsCount": 912,
+					"usersCount": 213,
+					"tipCount": 2
+				},
+				"url": "http://chicagoparkdistrict.com",
+				"beenHere": {
+					"lastCheckinExpiredAt": 0
+				},
+				"specials": {
+					"count": 0,
+					"items": []
+				},
+				"storeId": "",
+				"hereNow": {
+					"count": 0,
+					"summary": "Nobody here",
+					"groups": []
+				},
+				"referralId": "v-1490819134",
+				"venueChains": [
+					{
+						"id": "556cff64aceaff43eb070c64"
+					}
+				],
+				"hasPerk": false
+			},
+			{
+				"id": "4a6f331ef964a52096d51fe3",
+				"name": "Peterson Park",
+				"contact": {
+					"phone": "3127427584",
+					"formattedPhone": "(312) 742-7584"
+				},
+				"location": {
+					"address": "5801 N Pulaski Rd",
+					"crossStreet": "btwn Bryn Mawr Ave & Hollywood Ave",
+					"lat": 41.987769608920594,
+					"lng": -87.71947676349654,
+					"labeledLatLngs": [
+						{
+							"label": "display",
+							"lat": 41.987769608920594,
+							"lng": -87.71947676349654
+						}
+					],
+					"postalCode": "60646",
+					"cc": "US",
+					"city": "Chicago",
+					"state": "IL",
+					"country": "United States",
+					"formattedAddress": [
+						"5801 N Pulaski Rd (btwn Bryn Mawr Ave & Hollywood Ave)",
+						"Chicago, IL 60646",
+						"United States"
+					]
+				},
+				"categories": [
+					{
+						"id": "4bf58dd8d48988d163941735",
+						"name": "Park",
+						"pluralName": "Parks",
+						"shortName": "Park",
+						"icon": {
+							"prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+							"suffix": ".png"
+						},
+						"primary": true
+					}
+				],
+				"verified": false,
+				"stats": {
+					"checkinsCount": 1463,
+					"usersCount": 308,
+					"tipCount": 1
+				},
+				"beenHere": {
+					"lastCheckinExpiredAt": 0
+				},
+				"specials": {
+					"count": 0,
+					"items": []
+				},
+				"hereNow": {
+					"count": 0,
+					"summary": "Nobody here",
+					"groups": []
+				},
+				"referralId": "v-1490819134",
+				"venueChains": [],
+				"hasPerk": false
+			},
+			{
+				"id": "4b3817f2f964a520844b25e3",
+				"name": "Warren Park",
+				"contact": {
+					"phone": "7732626314",
+					"formattedPhone": "(773) 262-6314"
+				},
+				"location": {
+					"address": "6601 N Western Ave",
+					"crossStreet": "at Pratt Blvd",
+					"lat": 42.00227053991341,
+					"lng": -87.68694877624512,
+					"postalCode": "60645",
+					"cc": "US",
+					"city": "Chicago",
+					"state": "IL",
+					"country": "United States",
+					"formattedAddress": [
+						"6601 N Western Ave (at Pratt Blvd)",
+						"Chicago, IL 60645",
+						"United States"
+					]
+				},
+				"categories": [
+					{
+						"id": "4bf58dd8d48988d163941735",
+						"name": "Park",
+						"pluralName": "Parks",
+						"shortName": "Park",
+						"icon": {
+							"prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+							"suffix": ".png"
+						},
+						"primary": true
+					}
+				],
+				"verified": true,
+				"stats": {
+					"checkinsCount": 3772,
+					"usersCount": 853,
+					"tipCount": 5
+				},
+				"url": "http://chicagoparkdistrict.com",
+				"beenHere": {
+					"lastCheckinExpiredAt": 0
+				},
+				"specials": {
+					"count": 0,
+					"items": []
+				},
+				"storeId": "",
+				"hereNow": {
+					"count": 0,
+					"summary": "Nobody here",
+					"groups": []
+				},
+				"referralId": "v-1490819134",
+				"venueChains": [
+					{
+						"id": "556cff64aceaff43eb070c64"
+					}
+				],
+				"hasPerk": false
+			},
+			{
+				"id": "4b665132f964a520b71d2be3",
+				"name": "Wicker Park Neighborhood",
+				"contact": {},
+				"location": {
+					"lat": 41.908790323691015,
+					"lng": -87.67671354791364,
+					"postalCode": "60622",
+					"cc": "US",
+					"city": "Chicago",
+					"state": "IL",
+					"country": "United States",
+					"formattedAddress": [
+						"Chicago, IL 60622",
+						"United States"
+					]
+				},
+				"categories": [
+					{
+						"id": "4f2a25ac4b909258e854f55f",
+						"name": "Neighborhood",
+						"pluralName": "Neighborhoods",
+						"shortName": "Neighborhood",
+						"icon": {
+							"prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/neighborhood_",
+							"suffix": ".png"
+						},
+						"primary": true
+					}
+				],
+				"verified": false,
+				"stats": {
+					"checkinsCount": 18136,
+					"usersCount": 4973,
+					"tipCount": 14
+				},
+				"venueRatingBlacklisted": true,
+				"beenHere": {
+					"lastCheckinExpiredAt": 0
+				},
+				"specials": {
+					"count": 0,
+					"items": []
+				},
+				"hereNow": {
+					"count": 0,
+					"summary": "Nobody here",
+					"groups": []
+				},
+				"referralId": "v-1490819134",
+				"venueChains": [],
+				"hasPerk": false
+			},
+			{
+				"id": "4ae49d01f964a520519c21e3",
+				"name": "Wicker Park",
+				"contact": {
+					"phone": "3127427553",
+					"formattedPhone": "(312) 742-7553"
+				},
+				"location": {
+					"address": "1425 N Damen Ave",
+					"crossStreet": "btwn Wicker Park Ave & Schiller St",
+					"lat": 41.90809008331882,
+					"lng": -87.6772928237915,
+					"postalCode": "60622",
+					"cc": "US",
+					"city": "Chicago",
+					"state": "IL",
+					"country": "United States",
+					"formattedAddress": [
+						"1425 N Damen Ave (btwn Wicker Park Ave & Schiller St)",
+						"Chicago, IL 60622",
+						"United States"
+					]
+				},
+				"categories": [
+					{
+						"id": "4bf58dd8d48988d163941735",
+						"name": "Park",
+						"pluralName": "Parks",
+						"shortName": "Park",
+						"icon": {
+							"prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+							"suffix": ".png"
+						},
+						"primary": true
+					}
+				],
+				"verified": true,
+				"stats": {
+					"checkinsCount": 14277,
+					"usersCount": 6065,
+					"tipCount": 37
+				},
+				"url": "http://chicagoparkdistrict.com",
+				"beenHere": {
+					"lastCheckinExpiredAt": 0
+				},
+				"specials": {
+					"count": 0,
+					"items": []
+				},
+				"storeId": "",
+				"hereNow": {
+					"count": 0,
+					"summary": "Nobody here",
+					"groups": []
+				},
+				"referralId": "v-1490819134",
+				"venueChains": [
+					{
+						"id": "556cff64aceaff43eb070c64"
+					}
+				],
+				"hasPerk": false
+			},
+			{
+				"id": "4a95f3d9f964a520a72520e3",
+				"name": "CTA - Forest Park",
+				"contact": {
+					"phone": "8889687282",
+					"formattedPhone": "(888) 968-7282",
+					"twitter": "cta"
+				},
+				"location": {
+					"address": "711 Des Plaines Ave",
+					"crossStreet": "at Van Buren St.",
+					"lat": 41.87392289163258,
+					"lng": -87.81635999679565,
+					"labeledLatLngs": [
+						{
+							"label": "display",
+							"lat": 41.87392289163258,
+							"lng": -87.81635999679565
+						}
+					],
+					"postalCode": "60130",
+					"cc": "US",
+					"city": "Forest Park",
+					"state": "IL",
+					"country": "United States",
+					"formattedAddress": [
+						"711 Des Plaines Ave (at Van Buren St.)",
+						"Forest Park, IL 60130",
+						"United States"
+					]
+				},
+				"categories": [
+					{
+						"id": "4bf58dd8d48988d129951735",
+						"name": "Train Station",
+						"pluralName": "Train Stations",
+						"shortName": "Train Station",
+						"icon": {
+							"prefix": "https://ss3.4sqi.net/img/categories_v2/travel/trainstation_",
+							"suffix": ".png"
+						},
+						"primary": true
+					}
+				],
+				"verified": false,
+				"stats": {
+					"checkinsCount": 7604,
+					"usersCount": 1605,
+					"tipCount": 24
+				},
+				"url": "http://www.transitchicago.com",
+				"beenHere": {
+					"lastCheckinExpiredAt": 0
+				},
+				"specials": {
+					"count": 0,
+					"items": []
+				},
+				"hereNow": {
+					"count": 1,
+					"summary": "One other person is here",
+					"groups": [
+						{
+							"type": "others",
+							"name": "Other people here",
+							"count": 1,
+							"items": []
+						}
+					]
+				},
+				"referralId": "v-1490819134",
+				"venueChains": [],
+				"hasPerk": false
+			}
+		],
+		"geocode": {
+			"what": "",
+			"where": "60646",
+			"feature": {
+				"cc": "US",
+				"name": "60646",
+				"displayName": "60646, IL, United States",
+				"matchedName": "60646, IL, United States",
+				"highlightedName": "<b>60646</b>, IL, United States",
+				"woeType": 11,
+				"id": "geonamezip:US-60646",
+				"longId": "162411061574568150",
+				"geometry": {
+					"center": {
+						"lat": 41.993,
+						"lng": -87.7596
+					},
+					"bounds": {
+						"ne": {
+							"lat": 42.015539,
+							"lng": -87.718655
+						},
+						"sw": {
+							"lat": 41.975369,
+							"lng": -87.79076599999999
+						}
+					}
+				}
+			},
+			"parents": []
+		}
+	}
+}

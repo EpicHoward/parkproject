@@ -1,10 +1,13 @@
-.button{
-border-size: 10px
+.button {
+    border-size: 10px
 }
 
-button.hover{
-    background-color:blue
+button.hover {
+    background-color: blue
 }
-body{
-    background:url("https://nextcity.org/images/made/Minneapolis_LoringPark_920_568_80.jpg");
+
+body {
+    background-image: url("parkimage.jpg");
+    background-repeat: no-repeat;
+    background-size: 1300px 900px;
 }
