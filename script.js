@@ -17,11 +17,11 @@
 
             var parkapiId = "4bf58dd8d48988d163941735"
 
-         console.log(url);
+            console.log(url);
 
             $.get(url, function(data) {
 
-                $("#address").append(data.response.venues[0].location.addresss);
+                $("#address").append(data.response.venues[0].location.address);
 
                 $("#city").append(data.response.venues[0].location.city);
 
@@ -31,8 +31,7 @@
 
                 $("#crosstreet").append(data.response.venues[0].location.crossStreet);
 
-
-
+                $("#name").append(data.response.venues[0].name);
 
             });
 
@@ -54,33 +53,7 @@
 
 
 
-    //For (x=0, x<venues.lenght, x++);
-    /* for (x = 0; x < response.response.venues.length; x++) {
-            if (parkAPIid === response.response.venues[x].categories[0].id) {
-                console.log("It's a park:" + x);
-            }
-        }
 
-    });
-*/
-
-
-
-
-
-
-
-    /*
-                           
-    First run code to look into the reponse then
-     venues then
-     look
-     for catagorie parkapiId
-     then
-     return name, adress, crossStreet
-
-      
-     */
 
     //https://api.foursquare.com/v2/venues/search?near=60646&query=park&client_id=GHRILCJUTG0XCRR1SB3SXD52IPBKCB1PWLUNVSW45KQ5S4HA&client_secret=HD35RTRLE24TWUHLFDWM3OJNT2ILW44CA1TRO20AJRZ5JSZS&v=20170122
     
