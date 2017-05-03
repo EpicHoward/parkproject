@@ -11,6 +11,9 @@ body {
     background-repeat: no-repeat;
     background-size: 1300px 900px;
 }
-#park-results {
-    text-color:red
+
+.jumbotron{
+    
+    background-color:#d61d1d;
+    
 }
