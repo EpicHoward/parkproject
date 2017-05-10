@@ -2,18 +2,27 @@
     border-size: 10px
 }
 
-button.hover {
-    background-color: blue
+button {
+    background-color: #4CAF50;
+    /* Green */
+    border: none;
+    color: white;
+    padding: 5px 15px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
 }
 
 body {
     background-image: url("parkimage.jpg");
     background-repeat: no-repeat;
-    background-size: 1300px 900px;
+    background-size: 1300px 1100px;
 }
 
-.jumbotron{
-    
-    background-color:#d61d1d;
-    
+.jumbotron {
+    background-color: #d61d1d;
+}
+
+input {
+    color: black;
 }

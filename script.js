@@ -3,7 +3,9 @@
 
     // CLIENT_SECRET : HD35RTRLE24TWUHLFDWM3OJNT2ILW44CA1TRO20AJRZ5JSZ
 
-
+ //https://api.foursquare.com/v2/venues/search?near=60646&query=park&client_id=GHRILCJUTG0XCRR1SB3SXD52IPBKCB1PWLUNVSW45KQ5S4HA&client_secret=HD35RTRLE24TWUHLFDWM3OJNT2ILW44CA1TRO20AJRZ5JSZS&v=20170122
+    
+    //google maps api key : AIzaSyC6rKKqP2muUpfaai3uth3ro_e97jcUYiQ
 
     $(document).ready(function() {
 
@@ -54,6 +56,4 @@
 
 
 
-
-    //https://api.foursquare.com/v2/venues/search?near=60646&query=park&client_id=GHRILCJUTG0XCRR1SB3SXD52IPBKCB1PWLUNVSW45KQ5S4HA&client_secret=HD35RTRLE24TWUHLFDWM3OJNT2ILW44CA1TRO20AJRZ5JSZS&v=20170122
-    
+ 
