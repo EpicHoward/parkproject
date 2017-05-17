@@ -15,18 +15,35 @@
             var url = "https://api.foursquare.com/v2/venues/search?near=" +
                 zipcode + "&query=park&client_id=GHRILCJUTG0XCRR1SB3SXD52IPBKCB1PWLUNVSW45KQ5S4HA&client_secret=HD35RTRLE24TWUHLFDWM3OJNT2ILW44CA1TRO20AJRZ5JSZS" +
                 "&v=20170122&m=foursquare";
-                
-                
-                      
-            var place ="https://www.google.com/maps/embed/v1/place?" + "key=AIzaSyC6rKKqP2muUpfaai3uth3ro_e97jcUYiQ" +
-            
+
+
+
+
+
+
+
+
+
+
             // add append parameters here and get it inside the i-frame
 
 
-    
+
+
             console.log(url);
 
             $.get(url, function(data) {
+
+                var place = "https://www.google.com/maps/embed/v1/place?" + "key=AIzaSyC6rKKqP2muUpfaai3uth3ro_e97jcUYiQ" + "&q=" +
+
+                    data.response.venues[0].location.address;
+
+
+                console.log(place)
+
+
+
+                $("#map").attr("src", place);
 
                 $("#address").empty().append(data.response.venues[0].location.address);
 
